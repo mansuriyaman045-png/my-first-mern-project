@@ -10,3 +10,7 @@ i add crud and user see home page add to cart after login
 login page regiser page admin site 
 <br>
 admin add update delete the product 
+<br> 
+to add and update or delete in admin
+<br>
+the uri is http://localhost:5000/admin/products
